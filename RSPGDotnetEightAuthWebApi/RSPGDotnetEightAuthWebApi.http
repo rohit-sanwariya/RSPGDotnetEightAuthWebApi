@@ -1,0 +1,6 @@
+@RSPGDotnetEightAuthWebApi_HostAddress = http://localhost:5120
+
+GET {{RSPGDotnetEightAuthWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
